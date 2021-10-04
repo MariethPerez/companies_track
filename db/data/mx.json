@@ -1,0 +1,19 @@
+{
+  "companies": [
+    {
+      "name": "TelMex",
+      "id": "C-09",
+      "icon_url": "https://cdn.worldvectorlogo.com/logos/telmex-1.svg"
+    },
+    {
+      "name": "Bimbo",
+      "id": "C-08",
+      "icon_url": "https://grupobimbo-com-custom01-assets.s3.amazonaws.com/s3fs-public/logo_grupo_bimbo_0.png"
+    },
+    {
+      "name": "CeMex",
+      "id": "C-19",
+      "icon_url": "https://liferayprod.cemex.com/image/layout_set_logo?img_id=53753795&t=1632864750968"
+    }
+  ]
+}

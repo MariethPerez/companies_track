@@ -1,0 +1,17 @@
+[
+  {
+    "companyName": "Coca Cola",
+    "companyID": "57537",
+    "icon": "https://www.coca-colacompany.com/content/dam/journey/us/en/logos/TCCC_PrimaryWordmark_Horizontal_Black.svg"
+  },
+  {
+    "companyName": "Microsoft",
+    "companyID": "72622",
+    "icon": "https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31"
+  },
+  {
+    "companyName": "Walmart",
+    "companyID": "15357",
+    "icon": "https://i5.walmartimages.com/dfw/63fd9f59-b3e1/7a569e53-f29a-4c3d-bfaf-6f7a158bfadd/v1/walmartLogo.svg"
+  }
+]
