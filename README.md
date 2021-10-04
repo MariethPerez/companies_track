@@ -3,22 +3,13 @@
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
-Things you may want to cover:
+* Levantar el servidor con: 
 
-* Ruby version
+# rails s 
 
-* System dependencies
+* Ejemplos de request de la api:
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# http://localhost:3000/api/companies_format?country=usa
+# http://localhost:3000/api/companies_format?country=co
+# http://localhost:3000/api/companies_format?country=mx
+# http://localhost:3000/api/companies_format
